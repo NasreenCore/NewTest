@@ -15,6 +15,8 @@ namespace NewTest
             Console.WriteLine("happy to see it");
             Calculation obj=new Calculation();
            Console.Write( obj.WorkDone1(8, 6));
+            Employee empObj=new Employee();
+            Console.WriteLine("Employee salary is"+empObj.CalSalary(9000));
         }
     }
 }
