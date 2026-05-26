@@ -12,6 +12,7 @@ namespace NewTest
         {
             Console.WriteLine("I am going to test the git repository...");
             Console.WriteLine("I WANT TO BE EXPERT IN AZURE");
+            console.WriteLine("happy to see it");
         }
     }
 }
