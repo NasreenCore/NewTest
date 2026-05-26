@@ -11,6 +11,7 @@ namespace NewTest
         static void Main(string[] args)
         {
             Console.WriteLine("I am going to test the git repository...");
+            Console.WriteLine("I WANT TO BE EXPERT IN AZURE");
         }
     }
 }
